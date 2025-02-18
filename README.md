@@ -2,6 +2,8 @@
 
 This project is a Python script that extracts Instagram Reels views for a list of influencer usernames provided in a CSV file. The script utilizes Selenium for web automation and includes stealth features to minimize detection.
 
+![MatMan04](Recording2025-02-18170507-ezgif.com-video-to-gif-converter.gif)
+
 ## Features
 - **Manual login support**: Securely log in to Instagram before scraping.
 - **Automated scrolling**: Loads more reels for better data extraction.
